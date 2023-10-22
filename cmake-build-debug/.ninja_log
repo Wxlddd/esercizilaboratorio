@@ -1,0 +1,13 @@
+# ninja log v5
+2	51	7193534603232448	CMakeFiles/esercizilaboratorio.dir/main.c.obj	48b6b4f168f6e0d6
+68	148	7193647778339581	esercizilaboratorio.exe	d2e6f7aac501485c
+1	51	7193603428142669	CMakeFiles/esercizilaboratorio.dir/esercizio_3.c.obj	9915905542ad8b47
+6	54	7193589269085174	CMakeFiles/esercizilaboratorio.dir/esercizio_2.c.obj	c310b6fd0aa2f8b
+1	95	7193650165357366	build.ninja	e702b5e9a6c4bed1
+2	47	7193624166445884	CMakeFiles/esercizilaboratorio.dir/esercizio4.c.obj	e25548604170b02
+2	53	7193589269085174	CMakeFiles/esercizilaboratorio.dir/esercizio.c.obj	75c1ac382b857573
+7	54	7193635495013022	CMakeFiles/esercizilaboratorio.dir/esercizio_5.c.obj	e4e90ded52eab29a
+2	67	7193647777558871	CMakeFiles/esercizilaboratorio.dir/esercizio6.c.obj	97f35c1eacd26f88
+2	56	7193651232183526	CMakeFiles/esercizilaboratorio.dir/esercizio6.c.obj	97f35c1eacd26f88
+6	77	7193651232403727	CMakeFiles/esercizilaboratorio.dir/esercizioalessandro.c.obj	c0950ba31346a1e1
+77	173	7193651233324562	esercizilaboratorio.exe	75a5b68d1fe370dd
